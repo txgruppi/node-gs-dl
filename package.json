@@ -1,0 +1,19 @@
+{
+  "name": "gs-dl",
+  "version": "0.0.0",
+  "description": "Grooveshark Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gs-dl": "./index.js"
+  },
+  "author": "Tarcisio Gruppi <txgruppi@gmail.com>",
+  "license": "GPLv2",
+  "dependencies": {
+    "grooveshark-streaming": "0.0.5",
+    "uuid": "~1.4.1",
+    "concat-stream": "~1.2.1"
+  }
+}
