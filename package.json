@@ -1,6 +1,6 @@
 {
   "name": "gs-dl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grooveshark Downloader",
   "keywords": "grooveshark downloader command line cli",
   "homepage": "https://github.com/txgruppi/node-gs-dl",
