@@ -1,9 +1,3 @@
 # gs-dl
 
-## Grooveshark downloader
-
-### Usage
-
-```
-Usage: gs-dl <songUrl|songToken>
-```
+[RIP Grooveshark](http://grooveshark.com/)
